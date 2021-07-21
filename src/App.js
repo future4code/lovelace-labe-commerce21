@@ -2,23 +2,23 @@ import React from 'react';
 import styled from "styled-components"
 
 const Filtros = styled.p`
-margin-left:50px;
+margin-left:30px;
 width:200px;
 height:500px;
-border:1px solid black; `   
+border:1px solid black;
+text-align:center; `   
 
 const Carrinho = styled.p` 
+margin-right:30px;
 width:200px;
-border:1px solid black;`    
+border:1px solid black;
+text-align:center`    
 
 const ContainerPai=styled.div`
 display:flex; 
 justify-content: space-between
-
 ;
 `
-
-
 
 function App() {
   return (
@@ -34,8 +34,6 @@ function App() {
          <input/>
          
          </Filtros>
-       <header>header</header>
-
        <Carrinho>
 
         <h2>carrinho</h2>
