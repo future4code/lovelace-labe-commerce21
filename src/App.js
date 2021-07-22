@@ -26,7 +26,6 @@ display:flex;
 justify-content: space-between
 ;
 `
-
 export default class Home extends React.Component {
 
 
@@ -81,6 +80,5 @@ export default class Home extends React.Component {
       </ContainerPai>
     );
   }
-}
 
-/* export default App; */
+}
