@@ -39,7 +39,7 @@ function App() {
        <Carrinho>
 
         <h2>carrinho</h2>
-    <button>remover </button>
+    <button>adicionar</button>
     <button>remover</button>
 
        </Carrinho>
