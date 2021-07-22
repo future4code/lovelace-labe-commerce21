@@ -12,7 +12,7 @@ const Carrinho = styled.p`
 margin-right:30px;
 width:200px;
 border:1px solid black;
-text-align:center`    
+text-align:center;`    
 
 const ContainerPai=styled.div`
 display:flex; 
